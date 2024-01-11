@@ -77,26 +77,7 @@ Current versions:
 <p>Users /registration/login (https://yourwebsite.com/registration/login) is added only in <b>greenlabel template</b>. (easily can be added to any other template, just copy files: login.php, signup.php, user.php to the new template directory (application/views/templates) and change your design).</p>
 <b>Users can track their orders history only.</b>
 
-## Screenshots of public pages
-![MultiLanguage CodeIgniter Template Ecommerce](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/templates.png "Multiple Templates")
 
-## Screenshots of vendors pages
-![MultiVendor CodeIgniter Template Ecommerce](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/vendors_pages.jpg "Vendors Page Preview")
-
-## Screenshot of admin panel
-![CodeIgniter Administration Bootstrap](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Powerful Administration CodeIgniter")
-
-### How To Write Templates
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
-
-### Shopping cart peculiarities
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
-
-### Multi Vendor Support
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Multi-Vendor-Support
-
-### API Documentation
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/API
 
 ### Server Requirements
 - PHP version 5.6 or newer is recommended.
