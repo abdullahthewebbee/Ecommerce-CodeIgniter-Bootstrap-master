@@ -8,12 +8,7 @@ Current versions:
 * Codeigniter 3.1.13 (CodeIgniter Foundation)
 * Bootstrap 3.3.7
 
-## Donate
-<p>If this project help you reduce time to develop, you can give me a cup of coffee to continue its development. Thank you! :)</p>
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W5BR6K29BQX7E)
-
-<p><b>BTC Address:</b> 3FmdTVWCApEcHT6wmrSCFkUSqaowsaqS9Y</p>
 
 ## See also
 <p><a href="https://codecanyon.net/item/wp-invoices-pdf-electronic-invoicing-system/36891583" title="Electronic invoicing and warehouse management plugin which allows you to issue, send and download invoices as pdf file">WordPress PDF Invoices Plugin</a> - Create, Send, Manage and Download as PDF or CSV Invoices in Multiple Templates</p>
